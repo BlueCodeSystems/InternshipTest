@@ -3,9 +3,9 @@ Repository For Internship test projects
 
 
 # Git commands
-https://blog.testproject.io/2021/03/22/git-commands-every-sdet-should-know/
-http://guides.beanstalkapp.com/version-control/common-git-commands.html
-Any other site you can find on this subject
+#https://blog.testproject.io/2021/03/22/git-commands-every-sdet-should-know/
+#http://guides.beanstalkapp.com/version-control/common-git-commands.html
+#Any other site you can find on this subject
 
 
 
